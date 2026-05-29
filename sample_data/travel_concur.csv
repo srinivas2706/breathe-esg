@@ -1,0 +1,12 @@
+trip_id,employee_id,segment_type,origin,destination,travel_date,class,distance_km,hotel_nights,hotel_country,amount,currency
+TRP-001,EMP-101,flight,BOM,LHR,2024-01-10,business,,,,4500,GBP
+TRP-001,EMP-101,hotel,,,2024-01-10,,,3,GBR,750,GBP
+TRP-002,EMP-102,flight,DEL,SFO,2024-01-15,economy,,,,1200,USD
+TRP-002,EMP-102,hotel,,,2024-01-15,,,5,USA,1800,USD
+TRP-003,EMP-103,flight,LHR,CDG,2024-01-20,premium economy,,,,380,EUR
+TRP-003,EMP-103,car hire,,,2024-01-20,,,,,220,EUR
+TRP-004,EMP-104,flight,BOM,DXB,2024-01-22,economy,2200,,,600,AED
+TRP-005,EMP-105,rail,LHR,MAN,2024-01-25,economy,320,,,95,GBP
+TRP-006,EMP-106,taxi,,,2024-01-28,,,,,45,GBP
+TRP-007,EMP-107,flight,INVALID,XYZ,2024-01-30,business,,,,3200,USD
+TRP-008,EMP-108,flight,SIN,NRT,2024-02-01,first,,,,5600,SGD

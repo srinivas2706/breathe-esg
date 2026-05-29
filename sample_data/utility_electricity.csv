@@ -1,0 +1,10 @@
+account_number,meter_id,facility_id,facility_name,billing_start,billing_end,consumption,unit,tariff_code,country
+ACC-001,MTR-1001,P001,London Manufacturing Plant,2024-01-18,2024-02-17,45230,kWh,TOU-D-4,GBR
+ACC-001,MTR-1002,P001,London Manufacturing Plant,2024-01-18,2024-02-17,12800,kWh,TOU-D-4,GBR
+ACC-002,MTR-2001,P002,Mumbai Operations Centre,2024-01-01,2024-01-31,89500,kWh,HT-1,IND
+ACC-002,MTR-2002,P002,Mumbai Operations Centre,2024-01-01,2024-01-31,34200,kWh,HT-1,IND
+ACC-003,MTR-3001,P003,Frankfurt Distribution Hub,2024-01-15,2024-02-14,22100,MWh,HT-2-A,DEU
+ACC-001,MTR-1001,P001,London Manufacturing Plant,2024-02-18,2024-03-17,41800,kWh,TOU-D-4,GBR
+ACC-004,MTR-4001,P004,New York Office,2024-01-01,2024-01-31,15600,kWh,SC-9,USA
+ACC-005,MTR-5001,P005,Sydney Warehouse,2023-12-15,2024-01-14,8900,kWh,TOU-E2-V2.1,AUS
+ACC-002,MTR-2003,P002,Mumbai Operations Centre,2023-12-01,2023-12-31,,kWh,HT-1,IND
